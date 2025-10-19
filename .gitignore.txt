@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.opendb
+*.suo
+*.user
+*.VC.db
+*.log
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# OS generated files
+Thumbs.db
+.DS_Store
